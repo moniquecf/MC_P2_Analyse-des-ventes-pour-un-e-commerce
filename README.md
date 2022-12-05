@@ -1,11 +1,9 @@
 # MC_P2_Analyse-des-ventes-pour-un-e-commerce
 Projet 2 du parcours Data Analyst d'OpenClassrooms en partenariat avec l'ENSAE-ENSAI.
 
-Scénario
+**Scénario**
 Vous êtes consultant Data Analyst chez Lapage, une grande librairie généraliste en ligne très réputée. Vous êtes directement rattaché au service Marketing.
 
-Logo de Lapage
-Logo de Lapage
 Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Vous intervenez car l’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
 
 L’équipe Marketing que vous intégrez se compose de : 
@@ -16,7 +14,7 @@ Antoine, chargé de produit marketing.
 Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès votre arrivée :
 
  
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objet : Bienvenue dans l’équipe Marketing
 De : Annabelle
 À : Moi
@@ -40,21 +38,22 @@ Pièces jointes :
 
 Mail forwardé d’Antoine
 Fichier ZIP contenant les bases
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 Après avoir consulté le mail d’Antoine, vous prenez directement contact avec Julie.
 
-Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les données de ventes en ligne. Annabelle m’a dit que tu avais des demandes concernant l’analyse des comportements clients.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les données de ventes en ligne. Annabelle m’a dit que tu avais des demandes concernant l’analyse des comportements clients.
 
-Salut ! Bienvenue dans l’équipe 🙂 J’allais justement prendre contact avec toi. C’est exactement cela ! Je vais avoir besoin que tu regardes certaines corrélations, pour voir s’il n’y a pas certains points que nous pourrions analyser.
+- Salut ! Bienvenue dans l’équipe 🙂 J’allais justement prendre contact avec toi. C’est exactement cela ! Je vais avoir besoin que tu regardes certaines corrélations, pour voir s’il n’y a pas certains points que nous pourrions analyser.
 
-Bien sûr. Tu as déjà une idée précise de ce que tu veux que je regarde ?
+- Bien sûr. Tu as déjà une idée précise de ce que tu veux que je regarde ?
 
-Oui ! J’aimerais que tu regardes en particulier : 
+- Oui ! J’aimerais que tu regardes en particulier : le lien entre le genre d’un client et les catégories des livres achetés ; et ensuite le lien entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
 
-le lien entre le genre d’un client et les catégories des livres achetés ;
-et ensuite le lien entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
-Ça marche, je m’occupe de ça !
+- Ça marche, je m’occupe de ça !
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vous gardez en tête toutes ces informations et commencez à regarder les données. 🕵️‍♂️
 
