@@ -16,6 +16,7 @@ Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès votre arr
 
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Objet : Bienvenue dans l’équipe Marketing
 De : Annabelle
 À : Moi
@@ -40,28 +41,34 @@ Fichier ZIP contenat les bases
 Mail forwardé d'Antoine
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- De : Antoine
+
+De : Antoine
 À : Annabelle
 Objet : Besoins en analytics
+
 Bonjour Annabelle,
+
 Concernant l’analyse de données prévue sous peu, plusieurs aspects doivent être couverts.
-Dans un premier temps, je vais avoir besoin de différents indicateurs et graphiques autour du
-chiffre d'affaires. Peux-tu également regarder l’évolution dans le temps et mettre en place une
-décomposition en moyenne mobile pour évaluer la tendance globale ?
-Il serait également intéressant de faire un zoom sur les références, pour voir un peu les tops et les
-flops, la répartition par catégorie, etc.
-Enfin, j’aimerais avoir quelques informations sur les profils de nos clients, et également la
-répartition du chiffre d'affaires entre eux, via par exemple une courbe de Lorenz.
-Après, toutes les informations et tous graphiques qui apporteraient de l’information pertinente
-sont les bienvenus !
+
+Dans un premier temps, je vais avoir besoin de différents indicateurs et graphiques autour du chiffre d'affaires. Peux-tu également regarder l’évolution dans le temps et mettre en place une décomposition en moyenne mobile pour évaluer la tendance globale ?
+
+Il serait également intéressant de faire un zoom sur les références, pour voir un peu les tops et les flops, la répartition par catégorie, etc.
+
+Enfin, j’aimerais avoir quelques informations sur les profils de nos clients, et également la répartition du chiffre d'affaires entre eux, via par exemple une courbe de Lorenz.
+
+Après, toutes les informations et tous graphiques qui apporteraient de l’information pertinente sont les bienvenus !
+
 Bonne journée,
+
 Antoine.
+
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 Après avoir consulté le mail d’Antoine, vous prenez directement contact avec Julie.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les données de ventes en ligne. Annabelle m’a dit que tu avais des demandes concernant l’analyse des comportements clients.
 
 - Salut ! Bienvenue dans l’équipe 🙂 J’allais justement prendre contact avec toi. C’est exactement cela ! Je vais avoir besoin que tu regardes certaines corrélations, pour voir s’il n’y a pas certains points que nous pourrions analyser.
@@ -71,6 +78,7 @@ Après avoir consulté le mail d’Antoine, vous prenez directement contact avec
 - Oui ! J’aimerais que tu regardes en particulier : le lien entre le genre d’un client et les catégories des livres achetés ; et ensuite le lien entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
 
 - Ça marche, je m’occupe de ça !
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vous gardez en tête toutes ces informations et commencez à regarder les données. 🕵️‍♂️
