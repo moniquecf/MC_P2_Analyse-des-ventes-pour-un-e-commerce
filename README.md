@@ -37,9 +37,26 @@ Annabelle
 
 Pièces jointes :
 
-Mail forwardé d’Antoine
 Fichier ZIP contenat les bases
+Mail forwardé d'Antoine
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ De : Antoine
+À : Annabelle
+Objet : Besoins en analytics
+Bonjour Annabelle,
+Concernant l’analyse de données prévue sous peu, plusieurs aspects doivent être couverts.
+Dans un premier temps, je vais avoir besoin de différents indicateurs et graphiques autour du
+chiffre d'affaires. Peux-tu également regarder l’évolution dans le temps et mettre en place une
+décomposition en moyenne mobile pour évaluer la tendance globale ?
+Il serait également intéressant de faire un zoom sur les références, pour voir un peu les tops et les
+flops, la répartition par catégorie, etc.
+Enfin, j’aimerais avoir quelques informations sur les profils de nos clients, et également la
+répartition du chiffre d'affaires entre eux, via par exemple une courbe de Lorenz.
+Après, toutes les informations et tous graphiques qui apporteraient de l’information pertinente
+sont les bienvenus !
+Bonne journée,
+Antoine.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 Après avoir consulté le mail d’Antoine, vous prenez directement contact avec Julie.
